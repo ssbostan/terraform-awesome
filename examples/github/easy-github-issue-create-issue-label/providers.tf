@@ -1,0 +1,5 @@
+# https://github.com/ssbostan/terraform-awesome
+
+provider "github" {
+  token = var.token
+}
